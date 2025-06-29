@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class WeatherFetcher {
 
-    private static final String API_URL = "http://api.openweathermap.org/data/2.5/weather?q=Jharkhand&appid=YOUR_API_KEY&units=metric";
+    private static final String API_URL = "http://api.openweathermap.org/data/2.5/weather?q=Jharkhand&appid=weather API&units=metric";
 
     public static void main(String[] args) {
         try {
