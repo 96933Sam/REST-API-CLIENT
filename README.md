@@ -17,6 +17,7 @@ Understanding REST APIs REST (Representational State Transfer) is an architectur
 In the case of the weather API, a user might use a GET request to retrieve weather information for a specific city or location. The response is generally in JSON format, which is a lightweight, human-readable data-interchange format.
 
 Objective of the Task The primary goal of this task is to create a Java application that makes an HTTP request to a public weather API (or any other available REST API) to fetch weather data and displays this information in a structured format. This structured display can be in the form of plain text on the console or as a formatted report, depending on the requirements.
+
 Here are the key steps involved:
 
 Step 1: Setup and Dependencies To get started with the project, you need to set up the development environment with necessary libraries that will help handle HTTP requests and responses. In Java, libraries like HttpURLConnection or third-party libraries such as Apache HttpClient or OkHttp can be used to send HTTP requests to a REST API. For parsing JSON responses, the org.json library, Jackson, or Gson library can be used in Java. These libraries provide utilities to easily parse JSON data into Java objects and vice versa. To simplify this task, Maven or Gradle can be used for dependency management, so you don’t have to manually download and manage the libraries.
