@@ -10,6 +10,7 @@ DOMAIN: JAVA PROGRAMMING
 Duration : 4 WEEKS
 
 Mentor : NEELA SANTHOSH
+
 TASK DESCRIPTION: In this task, you are required to write a Java application that communicates with a public REST API, fetches relevant data, and then displays the data in a structured format. One of the common and widely used APIs for this purpose is the weather API, which provides weather-related data, such as current weather conditions, forecasts, and historical weather information. The application will focus on consuming a public REST API to fetch weather data and then display it in a structured and readable format.
 
 Understanding REST APIs REST (Representational State Transfer) is an architectural style that uses a stateless communication mechanism over the HTTP protocol. RESTful APIs are widely used for web services and provide an easy way for systems to communicate with each other over the internet. They typically use standard HTTP methods like GET, POST, PUT, and DELETE to interact with resources.
